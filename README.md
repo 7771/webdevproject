@@ -8,7 +8,7 @@ Email: <a href="zoannlyn@uwimona.com">zoannlyn@uwimona.com<a>
 <img src=C:\Users\Zoe\Pictures\pic_of_me.jpg alt= "picture of me" width="100" height="130"
 style = "position:inline" align="right">
 <br>
-<div>
+<p class="fix">
 Career Objective
 
     I intend to work in the IT feild for number of years, the most being five, with the goal of gaining an intimate understanding of how the information Technology world work. I will then move into special education where I will provide institutions with the relevant IT systems/assistive technologies to aid in the learnng experience of the respective students. 
