@@ -13,7 +13,8 @@ Career Objective
 
     I intend to work in the IT feild for number of years, the most being five. 
     The goal of thast is to gain an intimate understanding of how the Information Technology world work. 
-    I will then move into special education where I will provide institutions with the relevant IT systems/assistive technologies to aid in the learning experience of the respective students. 
+    I will then move into special education where I will provide institutions with the relevant 
+    IT systems/assistive technologies to aid in the learning experience of the respective students. 
 </p>
 
 <br>
