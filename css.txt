@@ -10,3 +10,7 @@ hr{
 p{
 font.family="helvetica"
 }
+body {
+  background-color: grey;
+}
+
