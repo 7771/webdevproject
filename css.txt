@@ -7,10 +7,13 @@ hr{
     border-style: inset;
     border-width: 5px;
 } 
-p{
+p.fix{
 font.family="helvetica"
+word-wrap: break-word;
+font.color = grey;
 }
 body {
   background-color: grey;
 }
+
 
