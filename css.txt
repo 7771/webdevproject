@@ -34,3 +34,9 @@ position="absolute";
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
 }
+<style>
+.vl{
+border-left: 6px solid black;
+height: 500;
+}
+</stle>
