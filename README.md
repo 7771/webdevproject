@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <link rel="stylesheet" href="css/css.css">
-<h1 class="fs": > Zoann Lyn</h1>
+<h1 class="fs" class="hr" > Zoann Lyn</h1>
 <h3> Cell: 142-458-3216
 <img src=https://github.com/7771/webdevproject/blob/master/picofme.jpg alt= "picture of me" width="160" height="210"
  align="right" class="rimage90" >
