@@ -24,3 +24,6 @@ img.inline {
   width="1";
   size="500";
 }
+ip{
+position="absolute";
+}
