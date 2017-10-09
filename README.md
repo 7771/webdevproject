@@ -16,25 +16,25 @@ Career Objectives
     IT systems/assistive technologies to aid in the learning experience of the respective students. 
 </p>
 
-<br>
+
 <div class="vl">
 <h2>
 EDUCATION
 </h2>
-<br>
+
 University of the West Indies
 <ul>
 	<li>Information Technology (Bsc)</li>
 	<li>Psychology (minor)</li>
 </ul>
-<br>
+
 <h2>
 SKILL(S)
 </h2>
 <ul>
 	<li>Computer Savvy</li>
 </ul>
-	<br>
+
 <h2>
 HOBBIES
 </h2>
@@ -50,11 +50,11 @@ WORK EXPERIENCE
 <ul>
 	<li>Administrative Assistance</li>
 	</ul>
-<br>
+
 <h2>
 References
 </h2>
-<br>
+
 John Smith<br>
 I.T. Technician<br>
 Things & More Electronics<br>
