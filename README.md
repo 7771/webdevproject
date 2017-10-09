@@ -22,7 +22,7 @@ Career Objectives
 </p>
 
 <div class="vl">
-<h2 >
+<h2>
 EDUCATION
 </h2>
 
