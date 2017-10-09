@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <link rel="stylesheet" href="css/css.css">
-<h1 class="fs"> Zoann Lyn</h1>
-<h3> Cell: 142-458-3216 <br>
-Email: <a href="zoannlyn@uwimona.com">zoannlyn@uwimona.com<a>
+<h1 > Zoann Lyn</h1>
+<h3> Cell: 142-458-3216
 <img src=https://github.com/7771/webdevproject/blob/master/picofme.jpg alt= "picture of me" width="160" height="210"
- align="right" class="ip" class="rimg90>
-</h3>
+ align="right" >
+
+Email: <a href="zoannlyn@uwimona.com">zoannlyn@uwimona.com<a></h3>
+
+
 				 
 <p>
 Career Objectives
@@ -14,8 +16,8 @@ Career Objectives
     The goal of thast is to gain an intimate understanding of how the Information Technology world work. 
     I will then move into special education where I will provide institutions with the relevant 
     IT systems/assistive technologies to aid in the learning experience of the respective students. 
-</p>
 
+</p>
 
 <div class="vl">
 <h2>
