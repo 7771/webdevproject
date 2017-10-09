@@ -20,3 +20,6 @@ img.inline {
  .fs{
  font.size = 30;
  }
+.verticalLine {
+  border-center: thick solid #ff0000;
+}
