@@ -19,10 +19,6 @@ Career Objective
 
 <br>
 <div class="vertical_line">
-<style>
-.vertical_line{height:150px; width:1px;background:#000;}
-</style></div>
-<div>
 <h2>
 EDUCATION
 </h2>
@@ -73,5 +69,6 @@ Jane Doe<br>
 Teacher<br>
 June High<br>
 1-876-246-8462<br>
+</div>
 </div>
 </html>
