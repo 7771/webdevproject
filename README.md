@@ -8,6 +8,7 @@ Email: <a href="zoannlyn@uwimona.com">zoannlyn@uwimona.com<a>
 
 </h3>
 <br>
+Career Objective
 <p>
 Career Objective
 
