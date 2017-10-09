@@ -6,7 +6,6 @@ Email: <a href="zoannlyn@uwimona.com">zoannlyn@uwimona.com<a>
 <img src=https://github.com/7771/webdevproject/blob/master/picofme.jpg alt= "picture of me" width="160" height="210"
  align="right" class="ip" class="rimg90>
 </h3>
-<br>
 
 <p>
 Career Objectives
