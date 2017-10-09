@@ -9,7 +9,7 @@ Email: <a href="zoannlyn@uwimona.com">zoannlyn@uwimona.com<a>
 <br>
 
 <p>
-Career Objective
+Career Objectives
 
     I intend to work in the IT feild for number of years, the most being five. 
     The goal of thast is to gain an intimate understanding of how the Information Technology world work. 
