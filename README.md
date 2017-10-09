@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <link rel="stylesheet" href="css/css.css">
-<h1 hr=class.fix> Zoann Lyn</h1>
+<h1 class="fs"> Zoann Lyn</h1>
 <h3> Cell: 142-458-3216 <br>
 Email: <a href="zoannlyn@uwimona.com">zoannlyn@uwimona.com<a>
 </h3>
