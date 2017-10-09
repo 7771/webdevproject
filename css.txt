@@ -20,6 +20,7 @@ img.inline {
  .fs{
  font.size = 30;
  }
-hr{
-  hr width="1" size="500"
+.hl{
+  width="1";
+  size="500";
 }
