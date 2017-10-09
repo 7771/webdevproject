@@ -22,44 +22,40 @@ Career Objectives
 <h2>
 EDUCATION
 </h2>
-<div>
+<br>
 University of the West Indies
 <ul>
 	<li>Information Technology (Bsc)</li>
 	<li>Psychology (minor)</li>
 </ul>
-</div>
+<br>
 <h2>
 SKILL(S)
 </h2>
-<div>
 <ul>
 	<li>Computer Savvy</li>
 </ul>
-</div>
+	<br>
 <h2>
 HOBBIES
 </h2>
-<div>
 <ul>
 	<li>Singing</li>
 	<li>Dancing</li>
 	<li>Writing</li>
-</ul>
-</div>
+	</ul>
+	<br>
 <h2>
 WORK EXPERIENCE
 </h2>
-<div>
 <ul>
 	<li>Administrative Assistance</li>
-</ul>
-</div>
-
+	</ul>
+<br>
 <h2>
 References
 </h2>
-<div>
+<br>
 John Smith<br>
 I.T. Technician<br>
 Things & More Electronics<br>
@@ -69,6 +65,5 @@ Jane Doe<br>
 Teacher<br>
 June High<br>
 1-876-246-8462<br>
-</div>
 </div>
 </html>
