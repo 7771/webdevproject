@@ -7,7 +7,7 @@ hr{
     border-style: inset;
     border-width: 5px;
 } 
-p.fix{
+fix{
 font.family="helvetica"
 word-wrap: break-word;
 font.color = grey;
@@ -15,5 +15,8 @@ font.color = grey;
 body {
   background-color: grey;
 }
-
-
+img.inline {
+    display: inline;
+ h1{
+ font.size = 30;
+ }
