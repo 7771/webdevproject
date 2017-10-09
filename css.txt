@@ -29,8 +29,7 @@ ip{
 position="absolute";
 }
 .rimg90 {
-  transform: rotate(7deg);
-}
+-webkit-transform: rotate(7deg)}
 .vl{
 border-left: 6px solid black;
 height: 500;
