@@ -17,7 +17,8 @@ body {
 }
 img.inline {
     display: inline;
- .fs{
+    }
+.fs{
  font.size = 30;
  }
 .hl{
