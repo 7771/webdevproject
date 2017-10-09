@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <link rel="stylesheet" href="css/css.css">
-<h1 > Zoann Lyn</h1>
+<h1 class="fs": > Zoann Lyn</h1>
 <h3> Cell: 142-458-3216
 <img src=https://github.com/7771/webdevproject/blob/master/picofme.jpg alt= "picture of me" width="160" height="210"
- align="right" >
+ align="right" class="rimage90" >
 
 Email: <a href="zoannlyn@uwimona.com">zoannlyn@uwimona.com<a></h3>
 
-
-				 
+<br>
+<br> 
 <p>
 Career Objectives
 
@@ -20,7 +20,7 @@ Career Objectives
 </p>
 
 <div class="vl">
-<h2>
+<h2 >
 EDUCATION
 </h2>
 
