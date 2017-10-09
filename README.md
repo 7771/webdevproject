@@ -18,7 +18,7 @@ Career Objective
 </p>
 
 <br>
-<div>
+<div class="verticalLine">
 <h2>
 EDUCATION
 </h2>
